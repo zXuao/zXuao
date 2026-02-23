@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there 👋, I'm João Vittor
+  Hi 👋, I'm João Vittor
 </h1>
 
 <h3 align="center">
@@ -7,59 +7,51 @@
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Always%20Learning-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Focus-Performance%20%26%20Automation-darkred?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-ff0000?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/FOCUS-AUTOMATION%20%26%20PERFORMANCE-8b0000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/MADE%20WITH-%E2%9D%A4-ff0000?style=for-the-badge">
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **automation, servers, and web systems**
-- 🌱 Always learning more about **Linux, DevOps, and Backend**
-- ⚡ Passionate about **performance, security, and clean solutions**
-- 🧠 I enjoy solving real-world problems with technology
+- 🔭 Working with **automation, servers, and web systems**
+- 🌱 Constantly learning **Linux, DevOps, Backend, and Infrastructure**
+- ⚡ Focused on **performance, stability, and security**
+- 🧠 Technology-driven problem solver
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,nodejs,js,ts,html,css,mysql,postgres,redis,git,github,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,bash,js,powershell,lua&theme=dark" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=zXuao&show_icons=true&theme=radical&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d1117"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zXuao&layout=compact&theme=radical&title_color=ff0000&text_color=ffffff&bg_color=0d1117"/>
-</p>
-
----
 
 ## 🐍 Contribution Snake
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zXuao/zXuao/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zXuao/zXuao/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zXuao/zXuao/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution snake animation" src="https://raw.githubusercontent.com/zXuao/zXuao/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
 
-## 📫 Contact Me
+## 🔗 Connect With Me
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/joao-vitor-nobre/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-João%20Vittor-ff0000?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
   <a href="https://github.com/zXuao">
-    <img src="https://img.shields.io/badge/GitHub-zXuao-red?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-zXuao-8b0000?style=for-the-badge&logo=github">
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>🔥 Keep learning. Keep building. Never stop. 🔥</b>
+  <b>🔥 Build strong. Automate smart. Never stop evolving. 🔥</b>
 </p>
